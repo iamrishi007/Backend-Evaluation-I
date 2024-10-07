@@ -1,0 +1,7 @@
+build user register and login in the backend
+
+--folder/file
+     -config ->db
+     -routes ->user/registration & user/login
+     -model => for userData
+     
